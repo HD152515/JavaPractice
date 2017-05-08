@@ -36,7 +36,7 @@ public class PersonTest {
 		e.sayBye();
 		k.sayBye();
 		j.sayBye();
-		c.sayBye();
+		c.sayBye(); 
 		
 	}
 
