@@ -25,8 +25,8 @@ public class SmartPhoneTest {
 		};
 		
 		for(SmartPhone arr : sm){
-			sm.toString();
-//			System.out.println(arr);
+//			arr.toString();
+			System.out.println(arr);
 			arr.turnOn();
 			arr.pay();
 			arr.useSpecialFuction(arr);
