@@ -16,7 +16,9 @@ package org.dimigo.abstractcalss;
  * @version : 1.0
  */
 public class Galaxy extends SmartPhone {
-public Galaxy(){}
+public Galaxy(){
+	
+}
 	
 	public Galaxy(String model, String company, int price){
 		super(model,company,price);

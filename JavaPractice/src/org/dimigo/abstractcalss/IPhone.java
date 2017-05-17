@@ -16,7 +16,9 @@ package org.dimigo.abstractcalss;
  * @version : 1.0
  */
 public class IPhone extends SmartPhone{
-	public IPhone(){}
+	public IPhone(){
+		
+	}
 	
 	public IPhone(String model, String company, int price){
 		super(model,company,price);

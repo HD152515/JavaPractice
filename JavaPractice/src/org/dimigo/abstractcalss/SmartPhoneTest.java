@@ -21,7 +21,6 @@ public class SmartPhoneTest {
 		SmartPhone[] sm = {
 				new IPhone("iPhone 7", "애플", 900000),
 				new Galaxy("갤럭시 S8", "삼성", 800000)
-				
 		};
 		
 		for(SmartPhone arr : sm){

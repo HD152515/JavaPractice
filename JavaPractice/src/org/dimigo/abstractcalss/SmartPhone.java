@@ -20,7 +20,9 @@ public abstract class SmartPhone {
 	private String company;
 	private int price;
 	
-	public SmartPhone(){}
+	public SmartPhone(){
+		
+	}
 	
 	public SmartPhone(String model, String company, int price){
 		this.model = model;
