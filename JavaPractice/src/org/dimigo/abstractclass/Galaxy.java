@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.dimigo.abstractcalss;
+package org.dimigo.abstractclass;
 
 /**
  * <pre>
